@@ -65,7 +65,7 @@
       align-items: center;
       text-align: center;
       padding: 0 10%;
-      background: url('https://images.unsplash.com/photo-1606312619070-648f3b6b3128?auto=format&fit=crop&w=1600&q=80') center/cover;
+      background: url('https://images.unsplash.com') center/cover;
       animation: fadeIn 2s ease;
     }
 
